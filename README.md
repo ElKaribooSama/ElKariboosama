@@ -23,13 +23,13 @@ A world without compile time, where variable name THEMSELVES.
 Some may say its impossible, that this vision will never become reality but I, I believe, that one day even Miranda from the marketing departement
 can describe the need of the client. Through sheer power of will, we will do it.
 
-but before that need I this compiler to work.
+but before that I need this compiler to work.
 
 
 Anyway,
 Its been a while now - still don't work - and I think I am ready to really present myself.
-Call me ElKariboosama, as I said i'm a student, nearly 20 year old and my back is starting to hurt.
+Call me ElKariboosama, as I said i'm a student, 20 year old and my back is starting to hurt.
 That's it I'm old and it shows.
 
-I work in C and C++ but I can still relate with the younger audience with my Python and Go skills.
+I work in C and C++ but I can still relate with the younger audience with my Python and Rust skills.
 Webdev isn't my cup of tea but I manage.
