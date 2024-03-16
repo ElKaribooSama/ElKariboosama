@@ -14,22 +14,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hello People 🔭
-I'm a student in a small city called Toulouse in France, <br>
-studying software engineering and game development for my 2nd year as of early 2023.
-I spend my years helping the younger student and having trouble with making c++ compiling work on my machine instead of working on my own project.
 
-I dream of a world where Bogosort is O(1), where error message become a thing of the past.
-A world without compile time, where variable name THEMSELVES.
-Some may say its impossible, that this vision will never become reality but I, I believe, that one day even Miranda from the marketing departement
-can describe the need of the client. Through sheer power of will, we will do it.
+Hey call me kari or karl if you cant read the I (it happen often)
+Im a computer science student in france that likes to work on unfinished project and not finishing them ever.
+I’m working on a server controller app (its private you cant see it), if you want some help for my public stuff send me a dm also
+I'd like to collaborate on open source projects when i have the time, im not out to many people yet so dont mention the flag, you can ask
+about Blazblue and Guilty Gear lore if you want though
 
-but before that I need this compiler to work.
+Someone really need to make an AI to give you variable names
 
-
-Anyway,
-Its been a while now - still don't work - and I think I am ready to really present myself.
-Call me ElKariboosama, as I said i'm a student, 20 year old and my back is starting to hurt.
-That's it I'm old and it shows.
-
-I work in C and C++ but I can still relate with the younger audience with my Python and Rust skills.
-Webdev isn't my cup of tea but I manage.
+what i know:
+  a little:
+    rust, ruby, php;
+  not bad:
+    typescript, javascript, angular, C / C++, minecraft redstone, python, java;
+  all:
+    blazblue lore;
