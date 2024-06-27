@@ -23,11 +23,11 @@ about Blazblue and Guilty Gear lore if you want though.
 
 Someone really need to make an AI to give you variable names
 
-what i know:
+what i know:\
   a little:
     rust,
     ruby,
-    php;
+    php;\
   not bad:
     typescript,
     javascript,
@@ -35,6 +35,6 @@ what i know:
     C / C++,
     minecraft redstone,
     python,
-    java;
+    java;\
   all:
     blazblue lore;
