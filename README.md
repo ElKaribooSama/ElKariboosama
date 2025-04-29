@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hey call me kari.
 Im a computer science student in france that likes to work on unfinished project and not finishing them.
 I’m working on a blog right now, if you want some help for my public stuff send me a dm.
-I'd like to collaborate on open source projects when i have the time, im not out to many people yet so dont mention the flag.
+I'd like to collaborate on open source projects when i have the time.
 
 Someone really need to make an AI to give you variable names
 
